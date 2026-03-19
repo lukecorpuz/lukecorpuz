@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=>+Initializing+Luke+Dominic...;>+Frontend+Developer;>+Building+UI%2FUX+Experiences;>+01010100+01100101+01100011+01101000" />
-</p>>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Focused;Building+Real-World+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,50:1e3c72,100:2a5298&height=200&section=header&text=Luke%20Dominic%20Corpuz&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20React%20%7C%20UI%2FUX&descAlignY=70"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
