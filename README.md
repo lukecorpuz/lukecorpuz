@@ -28,14 +28,11 @@ Hi, I'm Luke Dominic 👋 A frontend developer and currently, an IT student who 
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lukecorpuz&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/lukecorpuz/lukecorpuz/blob/output/github-contribution-grid-snake.svg" />
 </p>
