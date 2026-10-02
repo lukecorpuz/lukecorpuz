@@ -4,7 +4,8 @@
 
 
 ## 👨‍💻 About Me
-Hi, I'm Luke Dominic 👋 A frontend developer and currently, an IT student who enjoys building clean, responsive, and user-focused web applications.
+Hi, I'm Luke Dominic A. Corpuz 👋 I'm a Frontend Developer specializing in React, TypeScript, JavaScript, and UI/UX. I build clean, responsive, and user-focused web applications, with experience across full-stack development using Node.js, Express, MongoDB, and AI-powered technologies.
+
 
 ---
 
